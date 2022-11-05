@@ -18,7 +18,6 @@ const SearchBar = ({term, onTermChange, onTermSubmit}) => {
         </View>
     );
 }
-// wth is this
 
 const styles = StyleSheet.create({
     backgroundStyle: {
